@@ -1,0 +1,71 @@
+--- VIOLAÇÃO DE SEGURANÇA ENCONTRADA no passo 10 ---
+Estado 0:
+  loc = INIT
+  a = 19
+  b = 16
+  x = 19
+  y = 16
+  z = 0
+Estado 1:
+  loc = SKIP
+  a = 19
+  b = 16
+  x = 19
+  y = 16
+  z = 0
+Estado 2:
+  loc = LEFT
+  a = 19
+  b = 16
+  x = 19
+  y = 16
+  z = 0
+Estado 3:
+  loc = SKIP
+  a = 19
+  b = 16
+  x = 38
+  y = 8
+  z = 0
+Estado 4:
+  loc = LEFT
+  a = 19
+  b = 16
+  x = 38
+  y = 8
+  z = 0
+Estado 5:
+  loc = SKIP
+  a = 19
+  b = 16
+  x = 76
+  y = 4
+  z = 0
+Estado 6:
+  loc = LEFT
+  a = 19
+  b = 16
+  x = 76
+  y = 4
+  z = 0
+Estado 7:
+  loc = SKIP
+  a = 19
+  b = 16
+  x = 152
+  y = 2
+  z = 0
+Estado 8:
+  loc = LEFT
+  a = 19
+  b = 16
+  x = 152
+  y = 2
+  z = 0
+Estado 9:
+  loc = ERROR
+  a = 19
+  b = 16
+  x = 48
+  y = 1
+  z = 0

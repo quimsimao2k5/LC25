@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="790.9444"
+   height="592.23804"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="automatoFinito.svg"
+   inkscape:export-filename="automatoFinito.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="790.9444"
+       height="592.23804"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs32" />
+  <rect
+     style="fill:#fcfcfc;fill-opacity:1;stroke-width:3.77953;paint-order:markers fill stroke"
+     id="rect32"
+     width="790.9444"
+     height="592.23804"
+     x="0"
+     y="0" />
+  <circle
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     cx="370.29044"
+     cy="88.619019"
+     id="ellipse1"
+     r="30" />
+  <text
+     x="357.29044"
+     y="94.619019"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text1">init</text>
+  <circle
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     cx="370.29044"
+     cy="264.61902"
+     id="ellipse2"
+     r="30" />
+  <text
+     x="353.29044"
+     y="270.61902"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text2">skip</text>
+  <circle
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     cx="133.29042"
+     cy="388.61902"
+     id="ellipse3"
+     r="30" />
+  <text
+     x="120.29043"
+     y="394.61902"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text3">par</text>
+  <circle
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     cx="585.29041"
+     cy="388.61902"
+     id="ellipse4"
+     r="30" />
+  <text
+     x="562.29041"
+     y="394.61902"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text4">impar</text>
+  <circle
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     cx="370.29044"
+     cy="520.61902"
+     id="ellipse5"
+     r="30" />
+  <text
+     x="353.29044"
+     y="526.61902"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text5">stop</text>
+  <circle
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     cx="370.29044"
+     cy="520.61902"
+     id="ellipse6"
+     r="24" />
+  <circle
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     cx="693.29041"
+     cy="520.61902"
+     id="ellipse7"
+     r="30" />
+  <text
+     x="674.29041"
+     y="526.61902"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text7">error</text>
+  <circle
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     cx="693.29041"
+     cy="520.61902"
+     id="ellipse8"
+     r="24" />
+  <circle
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     cx="54.290428"
+     cy="520.61902"
+     id="ellipse9"
+     r="30" />
+  <text
+     x="35.290428"
+     y="526.61902"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text9">error</text>
+  <circle
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     cx="54.290428"
+     cy="520.61902"
+     id="ellipse10"
+     r="24" />
+  <polygon
+     stroke="#000000"
+     stroke-width="1"
+     points="376.5,29.5 376.5,62.5 "
+     id="polygon15"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <polygon
+     fill="#000000"
+     stroke-width="1"
+     points="371.5,54.5 376.5,62.5 381.5,54.5 "
+     id="polygon16"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <polygon
+     stroke="#000000"
+     stroke-width="1"
+     points="376.5,122.5 376.5,238.5 "
+     id="polygon17"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <polygon
+     fill="#000000"
+     stroke-width="1"
+     points="371.5,230.5 376.5,238.5 381.5,230.5 "
+     id="polygon18"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <text
+     x="339.29044"
+     y="182.61902"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text18">_:_</text>
+  <path
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     d="m 152.65943,365.72402 a 318.24,318.24 0 0 1 187.779,-98.247"
+     id="path18" />
+  <polygon
+     fill="#000000"
+     stroke-width="1"
+     points="160.657,360.342 158.869,369.605 167.979,367.154 "
+     id="polygon19"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <text
+     x="207.29042"
+     y="291.61902"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text19">_:_</text>
+  <path
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     d="m 350.92543,287.51702 a 318.105,318.105 0 0 1 -187.782,98.249"
+     id="path19" />
+  <polygon
+     fill="#000000"
+     stroke-width="1"
+     points="355.348,300.661 357.135,291.398 348.025,293.851 "
+     id="polygon20"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <path
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     d="m 400.26743,264.46302 a 221.003,221.003 0 0 1 170.146,98.131"
+     id="path20" />
+  <polygon
+     fill="#000000"
+     stroke-width="1"
+     points="568.029,362.585 576.623,366.475 576.354,357.045 "
+     id="polygon21"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <text
+     x="502.29044"
+     y="284.61902"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text21">_:_</text>
+  <text
+     x="14.414398"
+     y="31.745272"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text21-9">_:_ - os valores mantém-se</text>
+  <path
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     d="m 555.47143,385.46902 a 272.43,272.43 0 0 1 -167.522,-96.617"
+     id="path21" />
+  <polygon
+     fill="#000000"
+     stroke-width="1"
+     points="403.092,295.767 394.159,292.733 395.347,302.092 "
+     id="polygon22"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <polygon
+     stroke="#000000"
+     stroke-width="1"
+     points="376.5,298.5 376.5,494.5 "
+     id="polygon23"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <polygon
+     fill="#000000"
+     stroke-width="1"
+     points="371.5,486.5 376.5,494.5 381.5,486.5 "
+     id="polygon24"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <text
+     x="339.29044"
+     y="398.61902"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text24">_:_</text>
+  <polygon
+     stroke="#000000"
+     stroke-width="1"
+     points="610.497,415.719 680.503,501.281 "
+     id="polygon25"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <polygon
+     fill="#000000"
+     stroke-width="1"
+     points="671.567,498.256 680.503,501.281 679.307,491.923 "
+     id="polygon26"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <polygon
+     stroke="#000000"
+     stroke-width="1"
+     points="124.094,418.242 75.906,498.758 "
+     id="polygon27"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <polygon
+     fill="#000000"
+     stroke-width="1"
+     points="75.724,489.326 75.906,498.758 84.305,494.461 "
+     id="polygon28"
+     transform="translate(-6.2095733,-3.8809831)" />
+  <text
+     x="5.3742275"
+     y="455.78851"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text30"
+     transform="rotate(-27.645419)">x=x&lt;&lt;1, y=y&gt;&gt;1</text>
+  <text
+     x="-385.086"
+     y="300.87253"
+     font-family="'Times New Roman'"
+     font-size="14.3017px"
+     id="text30-4"
+     transform="rotate(-58.054541)"
+     style="stroke-width:0.715086">x=x&lt;&lt;1, y=y&gt;&gt;1</text>
+  <text
+     x="534.7821"
+     y="82.562019"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text32"
+     transform="rotate(31.008047)">y=y-1, z=z+x</text>
+  <text
+     x="711.65845"
+     y="-201.28123"
+     font-family="'Times New Roman'"
+     font-size="13.2547px"
+     id="text32-2"
+     transform="rotate(51.30437)"
+     style="stroke-width:0.662733"
+     inkscape:export-filename="text32-2.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">y=y-1, z=z+x</text>
+</svg>
