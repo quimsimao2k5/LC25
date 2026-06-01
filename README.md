@@ -13,9 +13,8 @@
 7. A entrega do trabalho tem a forma de uma discussão oral de 30 minutos com todos os elementos do grupo,  e inclui a demonstração da boa execução do código.
 8. A avaliação do trabalho incide sobre os três items referidos no nº 6 e ainda a discussão oral referido no nº 7. 
 9. Os “notebooks” Jupyter executáveis (ou o link no caso do Colab) e uma cópia PDF de cada um, devem  ser previamente  enviados via e-mail ao responsável da disciplina (@José Manuel V ) até às 23:59 da véspera da 1ª data de entrega desse trabalho.
-10. A classificação dos trabalhos é específica de cada elemento do grupo segundo a perceção que o avaliador tem da contribuição de cada um para o trabalho apresentado. Os resultados constam da [folha de avaliações](https://docs.google.com/spreadsheets/d/1Xy9azJHysNRsIyYYfG7pliPZZz8DAuU4Spmn9tcszPo/edit?usp=sharing).
-11. A entrega dos trabalhos realiza-se  nas datas abaixo indicadas.  A inscrição no horário de entrega é feita pelos grupos na folha de cálculo referida em 1.
-12. Informação complementar sobre a disciplina pode ser vista [nesta diretoria](https://www.dropbox.com/scl/fo/0tf0ym4kedzciwicddmk5/AERoHpx9u1e8cce-df2i9Sw?rlkey=n96w3kx5700k6j4uypitcvkzl&st=3k2kjgzv&dl=0).
+10. A entrega dos trabalhos realiza-se  nas datas abaixo indicadas.  A inscrição no horário de entrega é feita pelos grupos na folha de cálculo referida em 1.
+11. Informação complementar sobre a disciplina pode ser vista [nesta diretoria](https://www.dropbox.com/scl/fo/0tf0ym4kedzciwicddmk5/AERoHpx9u1e8cce-df2i9Sw?rlkey=n96w3kx5700k6j4uypitcvkzl&st=3k2kjgzv&dl=0).
 
 
 | | | Material | Nota |
